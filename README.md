@@ -1,8 +1,8 @@
 <h1 align="center">
-  Python programming Practice
+  Simple Search_Bar using Reactjs, NodeJs
 </h1>
 <p align="center">
-This project is basically for practicing purpose of Python Programming language Using ItelIJ Ide along with Python-3.
+This project is basically a search Bar Wich does Search Item by name, Company name, Email.
 </p>
 <p align="center">
 <a href="https://github.com/Rakib00111/github-profile-readme-generator/blob/master/LICENSE" target="blank">
