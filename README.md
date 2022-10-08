@@ -26,15 +26,17 @@ This project is basically a search Bar Wich does Search Item by name, Company na
 </p>
 ## Requirements 
 
-- Any Operating System (MacOS, Linux, Windows)
-- IntelIJ IDE with Dart SDK installed (IntelIJ, Python sdk)
+- Any Operating System (MacOS, Linux, Windows),
+- Webstrom by Intelij ide or visual studio code,
+- Install NodeJs, react framwork install
 - A little knowledge of any other programming languages 
 
 ## Auther
 Rakib_khan  khanrakib218@gmail.com
 
 
-![](https://github.com/Rakib00111/Python_practice/blob/main/Image.jpg)
+![](https://github.com/rakibkhanofficial/simple_searchbar_react/blob/main/output.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
